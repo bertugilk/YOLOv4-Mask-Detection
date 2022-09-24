@@ -1,7 +1,7 @@
-#YOLOv4-Mask-Detection
+## YOLOv4-Mask-Detection
  Mask recognition algorithm I developed using the yolov4 tiny model and darknet architecture.
 
-
+##
 
 
 
